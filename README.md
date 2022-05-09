@@ -1,3 +1,2 @@
 # Android Weather App written in Kotlin.
-
-(https://user-images.githubusercontent.com/75099333/167449488-605c1e15-9fd9-4ddc-bd04-3e9893238e07.png)
+![Weatherapp](https://user-images.githubusercontent.com/75099333/167449664-2c04aa0d-ef0a-47a0-9c08-be168e544bd0.png)
